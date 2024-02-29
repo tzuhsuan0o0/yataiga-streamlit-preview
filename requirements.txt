@@ -1,0 +1,8 @@
+numpy
+matplotlib
+sympy
+streamlit
+
+./RDQuantum
+
+antlr4-python3-runtime == 4.11
